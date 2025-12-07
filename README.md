@@ -1,2 +1,1 @@
-# p-rtfoy-bot
-bot
+tablolardan oluşan karmaşık bir kod!
